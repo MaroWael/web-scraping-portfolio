@@ -80,7 +80,7 @@ web-scraping-portfolio/
 │   ├── README.md
 │   ├── requirements.txt
 │   ├── .gitignore
-│   └── wuzzuf_jobs.xlsx # after code execution 
+│   └── jobs.xlsx # after code execution 
 │
 ├── yallakora_scraper/
 │   ├── yallakora_scraper.py
